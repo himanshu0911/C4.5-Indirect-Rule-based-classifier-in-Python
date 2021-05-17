@@ -1,1 +1,1 @@
-# C4.5-Direct-Rule-based-classifier-in-Python
+# C4.5-Indirect-Rule-based-classifier-in-Python
